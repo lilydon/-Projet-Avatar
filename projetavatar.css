@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #68b7b9
     margin: 500px 0px 0px 00px;
@@ -115,4 +116,29 @@ input[type=submit]:hover {
 }
 
 
+=======
+body {
+    background-color: #a2c3c0;
+}
+
+    h1 {
+        color: w#ccccff;
+        text-align: center;
+        font-family: 'PT Sans', sans-serif;
+        font-size: 20px;
+}
+
+        h2 {
+            color: w#ccccff;
+            text-align: justified;
+           
+        }
+
+        p {
+            font-family: verdana;
+            font-size: 14px;
+}
+
+  }
+>>>>>>> e8ea3b2605f2d06470dac74ebd11163882ff0405
   
